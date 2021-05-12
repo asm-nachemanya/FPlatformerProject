@@ -52,7 +52,6 @@ public class PlayerMovement : MonoBehaviour
         {
             return true;
         }
-
         return false;
     }
 }
